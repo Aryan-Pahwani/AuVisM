@@ -1,4 +1,4 @@
-# AuVisM - A Desktop Audio Visualizer For Mac
+# AuVisM - A Desktop Audio Visualizer For OS X
 
 ## Gallery
 
