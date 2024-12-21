@@ -45,7 +45,7 @@ Please check Releases [Releases](https://github.com/Aryan-Pahwani/AuVisM/release
 
 <img width="73" alt="Screenshot 2024-12-22 at 1 41 13 AM" src="https://github.com/user-attachments/assets/6c783258-acf6-4b33-be33-d189c7077aad" />
 
-You can click on the icon to move things around.
+You can click on the icon to open the edit and settings menu.
 
 Open the colour menu through Settings > Appearance > Color
 
