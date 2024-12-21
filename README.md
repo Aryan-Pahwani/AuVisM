@@ -1,6 +1,10 @@
 # AuVisM - A Desktop Audio Visualizer For OS X
 
-## Gallery
+## Gallery - Some nice looking setups
+
+<img width="1440" alt="Screenshot 2024-12-22 at 1 46 43 AM" src="https://github.com/user-attachments/assets/fa70694b-79e1-4731-accc-51f0dda297e2" />
+
+![Screenshot 2024-12-22 at 1 50 00 AM](https://github.com/user-attachments/assets/89d7c4df-66d7-4b2a-8822-68cc95b6bce6)
 
 
 ## Setup
@@ -36,4 +40,18 @@ Also - Change your primary device to the device you are using, setting it to Bla
 <img width="825" alt="Screenshot 2024-12-22 at 1 30 43 AM" src="https://github.com/user-attachments/assets/dae80a90-378f-4013-bf26-d5fb10dacd89" />
 
 ### Setting Up AuVisM
+
+Please check Releases [Releases](https://github.com/Aryan-Pahwani/AuVisM/releases) and download the latest version from there. After installing and running the app, an icon should appear on your menu bar.
+
+<img width="73" alt="Screenshot 2024-12-22 at 1 41 13 AM" src="https://github.com/user-attachments/assets/6c783258-acf6-4b33-be33-d189c7077aad" />
+
+You can click on the icon to move things around.
+
+Open the colour menu through Settings > Appearance > Color
+
+<img width="381" alt="Screenshot 2024-12-22 at 1 43 23 AM" src="https://github.com/user-attachments/assets/17fa2803-2a30-4a73-a172-35440e237372" />
+
+Pick a colour, and your Visualizer should start.
+
+You can play around with the settings and come up with some pretty interesting configurations. Try it! :)
 
